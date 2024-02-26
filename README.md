@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis..
 - 🌱 I’m currently learning Excel,SQL,Python,Tableau and Power BI
 - 💞️ I’m looking to collaborate on Data Analyst projects
-- 📫 How to reach me www.linkdin.com/in/rakeshpawade
+- 📫 How to reach me www.linkedin.com/in/rakeshpawade
 -  How to reach me rakeshpawade53@gmail.com
 
 <!---
