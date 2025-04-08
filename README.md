@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rakeshpawade
 - 👀 I’m interested in Data Analysis..
-- 🌱 I’m currently learning Excel,SQL,Python,Tableau and Power BI
+- 🌱 I' have hands on experience Excel,SQL,Python,Tableau and Power BI.
+- currenty pursuring executive post graduate programme in Data Science & AI by IIIT Banglore
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 How to reach me www.linkedin.com/in/rakeshpawade
 -  How to reach me rakeshpawade53@gmail.com
