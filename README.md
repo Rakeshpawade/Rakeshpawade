@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 How to reach me www.linkedin.com/in/rakeshpawade
 -  How to reach me rakeshpawade53@gmail.com
+-  https://github.com/Rakeshpawade
 
 <!---
 Rakeshpawade/Rakeshpawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
